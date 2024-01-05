@@ -21,4 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Preview do Projeto - https://rodrigo-dev7.github.io/login-animated-2/?
 
